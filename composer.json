@@ -8,6 +8,13 @@
             "email": "abdullah.alqudiry@gmail.com"
         }
     ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Alqudiry\\LeoAdmin\\LeoAdminServiceProvider"
+            ]
+        }
+    },
     "require": {
         "spatie/laravel-permission": "^3.17",
         "alqudiry/form-builder": "dev-main"
