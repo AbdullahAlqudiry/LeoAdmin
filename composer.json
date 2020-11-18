@@ -8,6 +8,11 @@
             "email": "abdullah.alqudiry@gmail.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "Alqudiry\\LeoAdmin\\": "src"
+        }
+    },
     "extra": {
         "laravel": {
             "providers": [
