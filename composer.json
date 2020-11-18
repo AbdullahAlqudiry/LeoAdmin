@@ -1,0 +1,15 @@
+{
+    "name": "alqudiry/leo-admin",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Abdullah Alqudiry",
+            "email": "abdullah.alqudiry@gmail.com"
+        }
+    ],
+    "require": {
+        "spatie/laravel-permission": "^3.17",
+        "alqudiry/form-builder": "dev-main"
+    }
+}
