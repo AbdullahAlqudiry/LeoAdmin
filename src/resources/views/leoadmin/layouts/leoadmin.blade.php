@@ -49,7 +49,7 @@
                         
                         <!-- brand -->
                         <a href="{{ url('/') }}" class="navbar-brand">
-                            <span class="hidden-folded d-inline">{{ setting('general', 'app_name') }}</span>
+                            <span class="hidden-folded d-inline">LeoAdmin</span>
                         </a>
                         <!-- / brand -->
                         
